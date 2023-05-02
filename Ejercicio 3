@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Ejercicio 02/2 - Tablas en HTML</title></head>
+
+    <body>
+        <table>
+            <tr>
+                <th>Título.</th>
+                <th>Autor.</th>
+                <th>Año de publicación.</th>
+                <th>Enlace a Amazon.</th>
+            </tr>
+
+            <tr>
+                <td>Women.</td>
+                <td>Charles Bukowski.</td>
+                <td>1978</td>
+                <td> <a href="https://www.amazon.com/Women-Novel-Charles-Bukowski/dp/0061177598">Women.</a></td>
+            </tr>
+
+            <tr>
+                <td>L'Étranger.</td>
+                <td>Albert Camus</td>
+                <td>1942</td>
+                <td><a href="https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200"></a>L'Étranger.</td>
+            </tr>
+
+            <tr>
+                <td>Love Is a Dog from Hell.</td>
+                <td>Charles Bukowski.</td>
+                <td>1977</td>
+                <td><a href="https://www.amazon.com/Love-Dog-Hell-Charles-Bukowski/dp/0876853629">Love Is a Dog from Hell.</a></td>
+            </tr>
+                
+        </table>
+    </body>
+</html>
