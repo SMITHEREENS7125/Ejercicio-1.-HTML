@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Multimedia con HTML.</title></head>
+
+    <body>
+        <h1>Aprendiendo a utilizar imágenes.</h1>
+        <img src="/Clases/Multimedia/Image/image.png" width="450" height="350">
+
+        <h1>Aprendiendo a utilizar los vídeos.</h1>
+        <video src="/Clases/Multimedia/Videos/ELDEN RING Mohg no hit.mp4" width="450" height="300" controls loop autoplay muted></video>
+
+        <h1>Aprendiendo a utilizar los audios.</h1>
+        <audio src="/Clases/Multimedia/Audio/jixaw-metal-pipe-falling-sound.mp3" type="audio/mp3" controls autoplay loop muted></audio>
+        
+    </body>
